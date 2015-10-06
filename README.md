@@ -1,6 +1,8 @@
 Description
 -----------
 
+[![Join the chat at https://gitter.im/arkency/apt-backports-cookbook](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/arkency/apt-backports-cookbook?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Enables [backports](http://backports-master.debian.org/) repository for Debian.
 
 Attributes
